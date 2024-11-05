@@ -1,0 +1,6 @@
+@HN_GenerateProductDescriptionByName.Server_HostAddress = http://localhost:5229
+
+GET {{HN_GenerateProductDescriptionByName.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
